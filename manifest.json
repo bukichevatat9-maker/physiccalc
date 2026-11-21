@@ -1,0 +1,21 @@
+{
+  "name": "ФизЛаб — офлайн-тренажёр по физике",
+  "short_name": "ФизЛаб",
+  "description": "Калькулятор формул, конвертер единиц, тесты и задания по физике",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff0f7",
+  "theme_color": "#ff4081",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
